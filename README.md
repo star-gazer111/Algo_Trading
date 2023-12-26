@@ -8,7 +8,7 @@
 ## Major Parameters Explored
 1. Heiken Ashi Charts  
 Heiken Ashi candles are a special type of candlestick chart that helps filter out market noise, providing a smoother representation of price trends.
-![Heiken ashi calculation](heikenashi.png?raw=true)
+![Heiken ashi calculation](https://github.com/tachyon-11/Algo_Trading/blob/main/heikenashi.png?raw=true)
 2. Average Directional Index (ADX)  
 ADX, or Average Directional Index, is a technical indicator designed to measure the strength of a trend in a financial market. It quantifies the strength of a trend on a scale from 0 to 100, with higher values indicating a stronger trend. 
 3. Exponential Moving Average (EMA)  
