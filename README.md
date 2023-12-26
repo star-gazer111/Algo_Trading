@@ -15,7 +15,7 @@ ADX, or Average Directional Index, is a technical indicator designed to measure 
 An exponential moving average (EMA) is a type of moving average (MA) that places a greater weight and significance on the most recent data points. 
 4. Average True Range (ATR)  
 The true range indicator is taken as the greatest of the following: current high less the current low; the absolute value of the current high less the previous close; and the absolute value of the current low less the previous close.
-![ATR](ATR.png)
+![ATR](./ATR.png)
 
 ## Final Presented Strategies
 1. Heiken Ashi + ADX  
