@@ -21,11 +21,11 @@ The true range indicator is taken as the greatest of the following: current high
 1. Heiken Ashi + ADX  
 We eventually chose Heiken Ashi candles and the ADX indicator for swing trading. By using Heiken Ashi candles, we aimed to reduce noise and create a clearer representation of the underlying trend. The ADX indicator was employed to identify the strength of a trend.
 ![HA + ADX](https://github.com/tachyon-11/Algo_Trading/blob/main/HA%2BADX%20results.png?raw=true)
-2. Heiken Ashi + EMA Short-shell  
+3. Heiken Ashi + EMA Short-shell  
 In our trading strategy, we used two different approaches for buying and selling. For going long, we used Heiken Ashi candles to reduce noise. A trailing stop loss was implemented based on the Average True Range (ATR) to manage risk and protect positions. We incorporate the Exponential Moving Average (EMA) with a length 5 for executing short trades. Our strategy hinges on identifying instances of market overextension
 ![HA + Shortsell](https://github.com/tachyon-11/Algo_Trading/blob/main/HA%2BShort%20Sell%20results.jpg?raw=true)
-3. Heiken Ashi + 2 ADX  
-The aim was to strike a better balance between identifying meaningful trends and minimizing the impact of noise in the market. We need to filter out the noise present in smaller time frames and thus Heiken Ashi candles and the ADX indicator seems to be driven by the Swing trading on higher time frames 
+5. Heiken Ashi + 2 ADX  
+The aim was to strike a better balance between identifying meaningful trends and minimizing the impact of noise in the market. We need to filter out the noise present in smaller time frames and thus Heiken Ashi candles and the ADX indicator seems to be driven by the Swing trading on higher time frames
 ![HA + 2ADX](https://github.com/tachyon-11/Algo_Trading/blob/main/HA%2B2ADX%20results.jpg?raw=true)
 
 
